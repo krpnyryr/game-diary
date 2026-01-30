@@ -1,4 +1,4 @@
-baseURL = "https://krpnyryr.github.io/game-diary/"
-languageCode = "ja-jp"
-title = "私のゲーム日記"
-theme = "ananke"
+baseURL = 'https://krpnyryr.github.io/game-diary/'
+languageCode = 'ja-jp'
+title = '私のゲーム日記'
+theme = 'ananke'
